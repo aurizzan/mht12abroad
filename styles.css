@@ -54,6 +54,10 @@ body {
     padding: 20px;
 }
 
+.box {
+    padding: 15px;
+}
+
 .flex {
     display: flex;
     flex-direction: column;
